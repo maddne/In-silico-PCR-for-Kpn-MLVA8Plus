@@ -1,4 +1,5 @@
 # In-silico-PCR-for-Kpn-MLVA8Plus
+
 This is the repository for creating the in-silico PCR, as described in the original paper "Improvement and Validation of а Multi-Locus Variable Number of Tandem Repeats Analysis for _Klebsiella pneumoniae_, _Кlebsiella variicola_, and _Klebsiella quasipneumoniae_".
 
 This script uses the Perl script from egonozer/in_silico_pcr (https://github.com/egonozer/in_silico_pcr.git)
